@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">A ChatApp landing page made using [Webflow](https://webflow.com/)</h1>
+  <h1 align="center">A ChatApp landing page made using Webflow</h1>
 </p>
 
 ## Output
